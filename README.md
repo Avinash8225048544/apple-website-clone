@@ -1,10 +1,6 @@
 <img src="./src/carousel-images/Apple-clone-hero-section.png">
 
-# [Apple Website Clone](https://apple-clone-suman-sourabh.netlify.app/)
-
 A clone of Apple's homepage of their [official website](https://www.apple.com/in/) (location: India) by implementing the big block design.
-
-Visit the clone [here](https://apple-clone-suman-sourabh.netlify.app/) (hosted on Netlify)
 
 ## Tech used
 
@@ -40,4 +36,4 @@ See [daisyUI carousel documentation](https://daisyui.com/components/carousel/) f
 - [daisyUI installation](https://daisyui.com/docs/install/)
 - [Fontawesome icons with React](https://fontawesome.com/docs/web/use-with/react/)
 
-**Built by [Suman Sourabh](https://sumansourabh.netlify.app/) | 2022**
+**Built by [Avinash sharma](https://sumansourabh.netlify.app/) | 2022**
