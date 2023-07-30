@@ -38,4 +38,4 @@ See [daisyUI carousel documentation](https://daisyui.com/components/carousel/) f
 - [daisyUI installation](https://daisyui.com/docs/install/)
 - [Fontawesome icons with React](https://fontawesome.com/docs/web/use-with/react/)
 
-**Built by [Avinash sharma](https://sumansourabh.netlify.app/) | 2022**
+**Built by [Avinash sharma] | 2022**
